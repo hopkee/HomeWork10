@@ -16,9 +16,9 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        topView.layer.cornerRadius = 25
-        middleView.layer.cornerRadius = 25
-        bottomView.layer.cornerRadius = 25
+        topView.layer.cornerRadius = 20
+        middleView.layer.cornerRadius = 20
+        bottomView.layer.cornerRadius = 20
     }
 
 
