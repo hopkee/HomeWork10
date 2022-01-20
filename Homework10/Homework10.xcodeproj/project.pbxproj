@@ -13,6 +13,7 @@
 		A74DED392793119B00C14F44 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A74DED372793119B00C14F44 /* Main.storyboard */; };
 		A74DED3B2793119D00C14F44 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A74DED3A2793119D00C14F44 /* Assets.xcassets */; };
 		A74DED3E2793119D00C14F44 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A74DED3C2793119D00C14F44 /* LaunchScreen.storyboard */; };
+		A7BE9482279A1AE000C4A354 /* alarmSound.wav in Resources */ = {isa = PBXBuildFile; fileRef = A7BE9481279A1AE000C4A354 /* alarmSound.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A74DED3A2793119D00C14F44 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A74DED3D2793119D00C14F44 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A74DED3F2793119D00C14F44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7BE9481279A1AE000C4A354 /* alarmSound.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = alarmSound.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A74DED3A2793119D00C14F44 /* Assets.xcassets */,
 				A74DED3C2793119D00C14F44 /* LaunchScreen.storyboard */,
 				A74DED3F2793119D00C14F44 /* Info.plist */,
+				A7BE9481279A1AE000C4A354 /* alarmSound.wav */,
 			);
 			path = Homework10;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A7BE9482279A1AE000C4A354 /* alarmSound.wav in Resources */,
 				A74DED3E2793119D00C14F44 /* LaunchScreen.storyboard in Resources */,
 				A74DED3B2793119D00C14F44 /* Assets.xcassets in Resources */,
 				A74DED392793119B00C14F44 /* Main.storyboard in Resources */,
